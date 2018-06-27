@@ -16,5 +16,7 @@
         </property>
     </bean>
 
+    <bean id="node3" class="co.uk.emilyo.framework.test.TestNode1Annotated" />
+    <bean id="node4" class="co.uk.emilyo.framework.test.TestNode2Annotated" />
 
 </beans>
