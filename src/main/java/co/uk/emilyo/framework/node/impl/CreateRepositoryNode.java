@@ -1,5 +1,6 @@
 package co.uk.emilyo.framework.node.impl;
 
+import co.uk.emilyo.framework.annotation.PartOfChain;
 import co.uk.emilyo.framework.node.Node;
 import org.eclipse.jgit.api.Git;
 import org.eclipse.jgit.lib.RepositoryBuilder;
